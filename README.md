@@ -113,5 +113,6 @@ Contributed to Microsoft's Python Risk Identification Tool (PyRIT), an open-sour
 
 I'm always interested in learning from other developers, collaborating on meaningful projects, and exploring opportunities in software engineering and applied AI.
 
-💼 **LinkedIn:** [Connect with me] https://www.linkedin.com/in/sarayu-poddutoori-4ab851227/
+📧 **Email:** spoddutoori@umass.edu
+💼 **LinkedIn:** https://www.linkedin.com/in/sarayu-poddutoori-4ab851227/
 
