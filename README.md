@@ -80,12 +80,12 @@ Contributed to Microsoft's Python Risk Identification Tool (PyRIT), an open-sour
 - Working on retrieval, reranking, and evidence-based response generation.
 - Gaining experience in collaborative AI development and technical communication.
 
-### Travelers | Software Engineering Intern
+### Travelers | AI Assistants Intern
 *Summer 2026*
 - Contributed to software development in a professional engineering environment.
 - Gained experience collaborating on production-oriented software.
 
-### ValueMomentum | Software Engineering Intern
+### ValueMomentum | AI Engineer Intern
 *Summer 2025*
 - Developed a proof of concept for a voice-enabled insurance claims intake assistant.
 - Explored speech-to-text, text-to-speech, and LLM-based workflows.
@@ -100,12 +100,6 @@ Contributed to Microsoft's Python Risk Identification Tool (PyRIT), an open-sour
 - Applying AI to healthcare challenges
 - Contributing to open-source software
 - Developing scalable backend services
-
----
-
-## 📈 GitHub Activity
-
-![Sarayu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarayu-code&show_icons=true&hide_rank=true)
 
 ---
 
