@@ -11,7 +11,7 @@ I enjoy working on projects that combine technical challenges with meaningful im
 - 💻 **Experience:** Software Engineering Intern at Travelers and ValueMomentum.
 - 🌱 **Learning:** LLM evaluation, information retrieval, AI/ML systems, and backend development.
 - 🎯 **Career Goal:** Software Engineer building scalable, reliable, and impactful applications.
-- 📫 **Reach me:** [LinkedIn] https://www.linkedin.com/in/sarayu-poddutoori-4ab851227/
+- 📫 **Reach me:** [LinkedIn] https://www.linkedin.com/in/sarayu-poddutoori/
 
 ---
 
@@ -108,5 +108,5 @@ Contributed to Microsoft's Python Risk Identification Tool (PyRIT), an open-sour
 I'm always interested in learning from other developers, collaborating on meaningful projects, and exploring opportunities in software engineering and applied AI.
 
 📧 **Email:** spoddutoori@umass.edu
-💼 **LinkedIn:** https://www.linkedin.com/in/sarayu-poddutoori-4ab851227/
+💼 **LinkedIn:** https://www.linkedin.com/in/sarayu-poddutoori/
 
